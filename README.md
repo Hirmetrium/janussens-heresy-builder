@@ -1,13 +1,7 @@
-Launch Bay Next
+Janussen's Hope Heresy Army Builder
 ![Typescript](https://github.com/andrelind/launch-bay-next-web/workflows/Typescript/badge.svg?branch=master)
 ===============
-Another squad builder...?
-
-Well, I've had the Launch Bay Next mobile app available since the release of X-Wing Second Edition and a bit further down the path I found out that I could reuse most of my components from the app (written in React Native) to be used on the web!
-
-Said and done, I did a quick conversion of some key components and this is it...
-
-It's not even close on par feature-wise with the mobile app, but most features will probably be available here also (at some point).
+This is a WIP project army builder.
 
 
 Building
@@ -21,4 +15,5 @@ Building
 
 Credits
 -------
-[X-Wing Miniatures](https://www.fantasyflightgames.com/en/products/x-wing-second-edition/) is made by [Fantasy Flight Games](http://www.fantasyflightgames.com).
+[Warhammer: The Horus Heresy](https://www.games-workshop.com/en-GB/The-Horus-Heresy) is made by [Games Workshop](https://www.games-workshop.com/) and [Forge World](https://www.forgeworld.co.uk/).
+This army builder is forked from [Launch Bay Next](https://launchbaynext.app/) by Andre Lind.
